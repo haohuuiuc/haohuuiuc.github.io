@@ -10,7 +10,7 @@ Data-Intensive Farm Management (DIFM)
 ------
 To better understand how fertilizer management, soil characteristics, and weather dynamics affect crop yields in order to help farmers fertilize more efficiently with lower production costs and to achieve better environmental sustainability
 
-![alt text](../images/DIFM.jpg =400x)
+![alt text](../images/DIFM.jpg)
 
 Synthesizing Knowledge of Past Environments (SKOPE)
 ------
