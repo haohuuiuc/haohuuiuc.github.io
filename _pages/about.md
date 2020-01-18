@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am a Product Engineer in the Spatial Analysis and Data Science team at Esri. I am specialized spatial
+I am a Product Engineer in the Spatial Analysis and Data Science team at Esri, specialized in spatial
  analysis and modeling tools for raster (cell-based) data. Particularly, I am interested in geospatial 
  machine learning and large raster data processing that leverages distributed computing and storage technologies. 
 

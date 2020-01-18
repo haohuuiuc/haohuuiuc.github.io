@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-Honors and awards
-------
 * Teacher Ranked as Excellent, Center for Teaching Excellence, UIUC, 2016
 * Disparate Data Challenge Award (Stage One: $10,000; Stage Two: University Participant Award) of the 
 National Geospatial-Intelligence Agency (NGA), 2016
