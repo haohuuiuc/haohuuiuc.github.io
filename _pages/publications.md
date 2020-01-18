@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+{% include base_path %}
 
 * **Hu, H.**, Jiang, H., Zhong, R., Xu, J., Xu, J., Huang, J., ... & Lin, T. (2019). A deep learning approach to conflating heterogeneous geospatial data for corn yield estimation: A case study of the US Corn Belt at the county level. _Global change biology_.
 * Zhang, Z., **Hu, H.**, Yin, D., Kashem, S., Li, R., Cai, H., ... & Wang, S. (2019). A cyberGIS-enabled multi-criteria spatial decision support system: A case study on flood emergency management. _International Journal of Digital Earth, 12_(11), 1364-1381.
