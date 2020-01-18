@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "shortbio"
+title: "Short Bio"
 permalink: /shortbio/
 author_profile: true
 redirect_from:
@@ -10,15 +10,15 @@ redirect_from:
 {% include base_path %}
 
 
-##Education
-
+Education
+------
 * Ph.D in Geography, University of Illinois at Urbana-Champaign (UIUC), 2018
 * M.S. in Geography, University at Buffalo, 2012
 * B.S. in Geographic Information System, Nanjing University, 2010
 
 
-##Professional experience
-
+Professional experience
+------
 * 2018.7 - Present: Product Engineer, Esri, Redlands CA  
 * 2016.8 - 2016.12; Teaching Assistant, UIUC, Urbana IL
 * 2014.8 - 2018.5: Graduate Research Assistant, National Center for Supercomputing 
@@ -27,8 +27,8 @@ Applications, UIUC, Urbana IL
 * 2012.8 - 2014.8: Graduate Research Assistant, UIUC, Urbana IL
  
   
-##Skills
-
+Skills
+------
 * Programming languages: Python, C++, JavaScript
 * Data science: pandas, scikit-learn, Keras, Tensorflow, d3
 * Geospatial analytics: ArcGIS, Google Earth Engine
