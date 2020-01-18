@@ -40,7 +40,7 @@ Bioenergy Knowledge Discovery Framework
 ------
 Main project participated when I was an intern in Oak Ridge National Laboratory.
 An online collaboration toolkit and data resource that provides access to the latest bioenergy research.
-![alt text](../images/bioenergykdf.jpeg)
+![alt text](../images/bioenergykdf.png)
 
 Resource Management and Mapping Service
 ------
