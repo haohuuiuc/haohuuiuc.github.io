@@ -54,4 +54,4 @@ A web GIS platform for managing and mapping water, soil, polluted runoff, land u
 Illinois,  sponsored by Illinois Environmental Protection Agency.
 Developed based on ArcGIS API for Javascript, Microsoft SQL Server, and ArcGIS Server.
 
-![alt text](../images/rmms.jpg)
+![alt text](../images/rmms.png)
