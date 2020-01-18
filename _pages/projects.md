@@ -10,14 +10,14 @@ Data-Intensive Farm Management (DIFM)
 ------
 To better understand how fertilizer management, soil characteristics, and weather dynamics affect crop yields in order to help farmers fertilize more efficiently with lower production costs and to achieve better environmental sustainability
 
-![alt text](../images/DIFM.jpg)
+![alt text](../images/DIFM.jpg =400x)
 
 Synthesizing Knowledge of Past Environments (SKOPE)
 ------
 An online resource for paleoenvironmental data and models
 Enabling scholars to easily discover, explore, visualize, and synthesize knowledge of environments in the recent or remote past
 
-![alt text](../images/skope.jpeg)
+![alt text](../images/skope.png)
 
 Scalable Raster Mapping and Analytical Service 
 ------
