@@ -19,7 +19,8 @@ Education
 
 Professional experience
 ------
-* 2018.7 - Present: Product Engineer, Esri, Redlands CA  
+* 2021.2 - Present: Software Engineer, Facebook, Menlo Park CA  
+* 2018.7 - 2021.2: Product Engineer, Esri, Redlands CA  
 * 2016.8 - 2016.12; Teaching Assistant, UIUC, Urbana IL
 * 2014.8 - 2018.5: Graduate Research Assistant, National Center for Supercomputing 
 Applications, UIUC, Urbana IL
