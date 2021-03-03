@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hao Hu"
 title_separator          : "-"
 name                     : &name "Hao Hu"
-description              : &description "Product Engineer at Esri"
+description              : &description "Software Engineer at Facebook"
 url                      : https://haohuuiuc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haohuuiuc.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hao Hu, PhD"
   avatar           : "avatar.JPG"
-  bio              : "Product Engineer at Esri, Spatial Analysis and Data Science Team"
-  location         : "Redlands, CA"
+  bio              : "Software Engineer at Facebook"
+  location         : "Menlo Park, CA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=YLUwKdgAAAAJ&hl=en"
